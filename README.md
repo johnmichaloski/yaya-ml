@@ -1,5 +1,5 @@
 
-# Readme C++ Yaml "Lite" 
+# Readme C++ YaYa-ml "Lite" 
 ----
 
 YaYaMlReadme.docx
@@ -106,3 +106,7 @@ Output from testing yaya-ml:
 	}
 
 
+# Get your ya yas out!
+
+![Figure3](./images/YaYaMlReadme_image3.gif)
+
